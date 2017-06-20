@@ -1,0 +1,21 @@
+{
+  "name": "ayudantia-api-2",
+  "version": "1.0.0",
+  "description": "Ayudantia de API N°2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "AJAX",
+    "JSON",
+    "HTML",
+    "JS"
+  ],
+  "author": "Leslie Avendano",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}

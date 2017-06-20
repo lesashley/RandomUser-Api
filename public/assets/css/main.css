@@ -1,0 +1,23 @@
+*{
+  font-family: 'Overpass', sans-serif;
+}
+#root{
+  background-color: rgb(93, 163, 255);
+  color: #fff;
+  width: 50%;
+  padding: 10px;
+  text-transform: capitalize;
+  margin: 0 auto;
+}
+img{
+  float: right;
+  border: 1px solid #fff;
+}
+h1{
+  text-align: center;
+  text-transform: uppercase;
+}
+.container{
+  border: 1px solid #fff;
+  padding: 10px;
+}
